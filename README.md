@@ -1,3 +1,3 @@
 # note-taking-app
 
-React/Firebase Stack
+MERN
