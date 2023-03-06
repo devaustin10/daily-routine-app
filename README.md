@@ -1,3 +1,3 @@
-# note-taking-app
+# daily-routine-app
 
 MERN
